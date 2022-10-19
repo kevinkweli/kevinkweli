@@ -9,6 +9,8 @@
 <a href="https://www.linkedin.com/in/kevinkweli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/kevinkweli/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=uqkjt0hd4y0x3oav3htcps7hn&width=1000)
 <!---
 kevinkweli/kevinkweli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
