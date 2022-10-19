@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kevinkweli
+## 👋 Hi, I’m @kevinkweli
 - 👀 I’m interested in Tech Advancement, and Remove technology Gap in our lovely Continent Africa.
 - 🌱 I’m currently learning SEO Engeeniering, Frameworks Laravel, Tailwindcss and later Mern.
 - 💞️ I’m looking to collaborate on Web development and other projects be free to check me on
